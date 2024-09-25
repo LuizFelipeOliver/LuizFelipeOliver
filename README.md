@@ -2,6 +2,7 @@
 
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 <!--
 **LuizFelipeOliver/LuizFelipeOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
