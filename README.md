@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,lazy-vim,i3)](https://github.com/Jurredr/github-widgetbox)
 <!--
 **LuizFelipeOliver/LuizFelipeOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
