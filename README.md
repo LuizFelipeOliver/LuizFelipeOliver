@@ -3,7 +3,7 @@
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-![Neo-vim](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neo-vim" width="50" height="50">
 <!--
 **LuizFelipeOliver/LuizFelipeOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
